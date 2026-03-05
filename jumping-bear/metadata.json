@@ -1,0 +1,5 @@
+{
+  "name": "Jumping Bear",
+  "description": "A mobile arcade game where you control a bear to catch jumping fish while avoiding poisonous puffers across 20 challenging levels.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,20 @@
+{
+  "short_name": "JumpBear",
+  "name": "Jumping Bear Arcade",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/bear/192/192",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://picsum.photos/seed/bear/512/512",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a"
+}
